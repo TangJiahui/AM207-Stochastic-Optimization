@@ -1,0 +1,7 @@
+state - State Name
+fips - Federal Information Processing Standards State
+county - County Name
+fips - Federal Information Processing Standards County
+dc - Disease Count
+pop - Population
+pct_mortality - Percent Mortality
